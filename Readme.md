@@ -16,9 +16,12 @@ This project focuses on analyzing global temperature anomalies from 1850 to 2023
 
 ## Data Sources
 
-* **NOAA:** [https://www.ncei.noaa.gov/access/monitoring/monthly-report/global](https://www.ncei.noaa.gov/access/monitoring/monthly-report/global)
-* **Berkeley Earth:** [https://berkeleyearth.org/data/](https://berkeleyearth.org/data/)
-* **HadCRUT5:** [https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.0.2.0/download.html](https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.0.2.0/download.html)
+| Dataset | Information | Introduction | Authors | Creators | License Info |
+|---|---|---|---|---|---|
+| NOAA | The National Centers for Environmental Information (NCEI) provides this dataset, which is based on land and ocean temperature records from multiple sources. | NOAA's Global Surface Temperature Analysis (NOAAGlobalTemp) provides a comprehensive dataset of monthly global surface temperature anomalies from 1880 to the present. The dataset is based on temperature records from over 16,000 land and ocean stations worldwide. | National Oceanic and Atmospheric Administration (NOAA) | NOAA Global Surface Temperature Analysis Team | Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) |
+| Berkeley Earth | The Berkeley Earth Surface Temperature dataset is compiled by scientists at the University of California, Berkeley. | The Berkeley Earth Surface Temperature dataset is a reconstruction of global surface temperature history from 1850 to the present. The dataset is based on a comprehensive analysis of temperature data from multiple sources, including weather stations, ships, and satellites. | Robert Rohde, John Abraham, and Roger Pielke Jr. | Robert Rohde | Attribution 4.0 International (CC BY 4.0) |
+| HadCRUT5 | The Hadley Centre for Climate Research at the Met Office provides this dataset, which is based on land and ocean temperature records from multiple sources. | The Hadley Centre Global Temperature Record (HadCRUT5) is a dataset of monthly global surface temperature anomalies from 1850 to the present. The dataset is based on temperature records from over 10,000 land and ocean stations worldwide. | Met Office Hadley Centre for Climate Research | Met Office Hadley Centre for Climate Research | Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) |
+
 
 ## Methodology
 
