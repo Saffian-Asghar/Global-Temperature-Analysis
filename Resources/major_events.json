@@ -1,0 +1,115 @@
+[
+
+  {
+    "Invention/Event": "Discovery of Oil",
+    "Year": 1859,
+    "Impact on Temperature": "Increased",
+    "Explanation": "The discovery and subsequent reliance on oil as a fuel source further intensified greenhouse gas emissions.",
+    "Source": "https://www.britannica.com/science/petroleum"
+  },
+  {
+    "Invention/Event": "Internal Combustion Engine",
+    "Year": 1876,
+    "Impact on Temperature": "Increased",
+    "Explanation": "The invention and widespread adoption of the internal combustion engine led to the rise of automobiles and increased reliance on fossil fuels.",
+    "Source": "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+  },
+  {
+    "Invention/Event": "Haber-Bosch Process",
+    "Year": 1908,
+    "Impact on Temperature": "Increased",
+    "Explanation": "This process enabled the large-scale production of synthetic fertilizers, leading to increased agricultural practices and associated land-use changes, contributing to greenhouse gas emissions.",
+    "Source": "https://www.britannica.com/summary/ammonia"
+  },
+  {
+    "Invention/Event": "Commercial Air Travel",
+    "Year": 1914,
+    "Impact on Temperature": "Increased",
+    "Explanation": "The rise of commercial air travel, while initially limited, began its trajectory of contributing to greenhouse gas emissions through jet fuel combustion.",
+    "Source": "https://www.britannica.com/topic/airline"
+  },
+  {
+    "Invention/Event": "Discovery of Freon",
+    "Year": 1928,
+    "Impact on Temperature": "Initially: Increased, Later: Regulated and Reduced",
+    "Explanation": "Freon, used in refrigeration and other applications, was later discovered to contribute significantly to ozone depletion. While not directly affecting global temperatures, a depleted ozone layer allows more ultraviolet radiation to reach Earth, potentially impacting climate patterns indirectly. Freon use was subsequently regulated and reduced.",
+    "Source": "https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics"
+  },
+  {
+    "Invention/Event": "Nuclear Power",
+    "Year": 1942,
+    "Impact on Temperature": "Potentially Reduced",
+    "Explanation": "Nuclear power can be a source of low-carbon electricity generation, potentially offsetting some greenhouse gas emissions from fossil fuel-based sources. However, concerns remain regarding nuclear waste disposal and safety.",
+    "Source": "https://www.epa.gov/radtown/nuclear-power-plants"
+  },
+  {
+    "Invention/Event": "Computer Revolution",
+    "Year": 1940,
+    "Impact on Temperature": "Mixed",
+    "Explanation": "The development and proliferation of computers and related technologies have both positive and negative impacts on temperature. While enabling advancements in renewable energy research and energy efficiency, they also contribute to increased energy demands for data centers and electronic devices.",
+    "Source": "https://en.wikipedia.org/wiki/Computer"
+  },
+  {
+    "Invention/Event": "Space Race",
+    "Year": 1957,
+    "Impact on Temperature": "Limited but Potentially Increased",
+    "Explanation": "While the primary focus of the Space Race was scientific and technological advancement, the associated rocket launches and activities may have contributed, to a lesser extent, to greenhouse gas emissions.",
+    "Source": "https://en.wikipedia.org/wiki/Space_Race"
+  },
+  {
+    "Invention/Event": "Montreal Protocol",
+    "Year": 1987,
+    "Impact on Temperature": "Potentially Reduced",
+    "Explanation": "This international treaty aimed at phasing out the production and use of ozone-depleting substances like chlorofluorocarbons (CFCs). While not directly impacting global temperatures, it helped protect the ozone layer, potentially mitigating indirect climate effects.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "World Wide Web",
+    "Year": 1989,
+    "Impact on Temperature": "Mixed",
+    "Explanation": "Similar to the computer revolution, the internet has both positive and negative consequences. It facilitates communication and collaboration for climate research and awareness but also contributes to increased energy consumption from data centers and electronic devices.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "Hydraulic Fracturing (Fracking)",
+    "Year": 1949,
+    "Impact on Temperature": "Increased",
+    "Explanation": "This technique allows for the extraction of oil and gas from unconventional resources like shale formations. While increasing energy supply, it can also lead to methane emissions, a potent greenhouse gas, contributing to global warming.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "Kyoto Protocol",
+    "Year": 1997,
+    "Impact on Temperature": "Potentially Reduced",
+    "Explanation": "This international agreement aimed to reduce greenhouse gas emissions from developed countries. While its effectiveness was limited, it marked a significant step towards international cooperation on climate change.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "Lithium-ion Battery",
+    "Year": 1991,
+    "Impact on Temperature": "Mixed",
+    "Explanation": "These batteries are crucial for the development of electric vehicles and renewable energy storage. While promoting cleaner transportation and energy sources, the mining and production of lithium can have environmental impacts.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "Paris Agreement",
+    "Year": 2015,
+    "Impact on Temperature": "Potentially Reduced",
+    "Explanation": "This international agreement aims to limit global warming to well below 2 degrees Celsius, ideally 1.5 degrees Celsius, compared to pre-industrial levels. While its success hinges on ambitious national commitments and implementation, it provides a framework for collective action against climate change.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "Rise of AI",
+    "Year": 2010,
+    "Impact on Temperature": "Uncertain",
+    "Explanation": "AI has the potential to be both a tool and a target in the fight against climate change. It can be used to optimize energy use, develop renewable energy solutions, and improve climate models. However, the energy consumption associated with training and running AI models needs to be considered and addressed for it to contribute positively to climate action.",
+    "Source": "[invalid URL removed]"
+    },
+    {
+    "Invention/Event": "COVID-19",
+    "Year": 2020,
+    "Impact on Temperature": "Temporary Decrease",
+    "Explanation": "Due to global lockdowns and reduced economic activity during the pandemic, global greenhouse gas emissions temporarily decreased. However, this is not considered a sustainable solution to climate change, and emissions are expected to rebound as economic activity resumes.",
+    "Source": "[invalid URL removed]"
+    }
+]
